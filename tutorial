@@ -1,0 +1,4 @@
+save file dengan ConnectWiFi.py
+port sesuaikan jika saya pakai port 8
+cara memanggillnya
+--port COM8 put ConnectWiFi.py
